@@ -1,0 +1,5 @@
+#kutu1{background: red;width: 100vw;height: 10vh;}
+#kutu2{background: linear-gradient(yellow,blue,red);width: 100vw;height: 10vh;}
+#kutu3{background-color: rgba(255, 255, 255, 0.5);width: 100vw;height: 10vh;}
+#kutu4{background-image:url(avatar_12.png),url(avatar_18.png);width: 100vw;height: 10vh;background-position: center,top right;background-repeat: no-repeat,no-repeat;background-size: 100px,100px;}
+#kutu5{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font: 4vh;width: 100vw;height: 40vh;text-decoration: underline;}
